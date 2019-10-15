@@ -5,6 +5,9 @@
   "repository": "https://github.com/atirson/bootcamp-gostack-desafio-01.git",
   "author": "Atirson Fabiano Barbosa de Oliveira <fabiano.oliveira2213@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
